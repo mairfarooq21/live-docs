@@ -34,21 +34,16 @@ and many more, including code architecture and reusability
 
 ## <a name="quick-start">Quick Start</a>
 
-Follow these steps to set up the project locally on your machine.
-
-**Prerequisites**
-
 Make sure you have the following installed on your machine:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+- [npm](https://www.npmjs.com/)
 
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/collaborative-editor.git
-cd collaborative-editor
+git clone https://github.com/mairfarooq21/live-docs.git
 ```
 
 **Installation**
@@ -60,8 +55,6 @@ npm install
 ```
 
 **Set Up Environment Variables**
-
-Create a new file named `.env` in the root of your project and add the following content:
 
 ```env
 #Clerk
