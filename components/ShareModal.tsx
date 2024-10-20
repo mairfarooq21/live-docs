@@ -68,7 +68,7 @@ const ShareModal = ({ roomId, collaborators, creatorId, currentUserType }: Share
           Email address
         </Label>
         <div className="flex items-center gap-3">
-          <div className="flex flex-1 rounded-md bg-[#050505]">
+          <div className="flex flex-1 rounded-md bg-[#000000]">
             <Input 
               id="email"
               placeholder="Enter email address"
