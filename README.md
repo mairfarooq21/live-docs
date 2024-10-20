@@ -48,8 +48,6 @@ git clone https://github.com/mairfarooq21/live-docs.git
 
 **Installation**
 
-Install the project dependencies using npm:
-
 ```bash
 npm install
 ```
