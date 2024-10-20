@@ -5,11 +5,10 @@ Built with Next.js to handle the user interface, Liveblocks for real-time featur
 ## <a name="tech-stack">Tech Stack</a>
 
 - Next.js
+- Tailwind CSS
 - TypeScript
 - Liveblocks
-- Lexical Editor
 - ShadCN
-- Tailwind CSS
 
 ## <a name="features">Features</a>
 
