@@ -1,6 +1,6 @@
 ## <a name="introduction">Introduction</a>
 
-Built with Next.js to handle the user interface, Liveblocks for real-time features and styled with TailwindCSS, LiveDocs is a clone of Goole Docs. The primary goal is to demonstrate the developer's skills in realtime enviroment that creates a lasting impact.
+Live Docs is a collaborative web app for real-time document creation and editing. It allows multiple users to work on the same document simultaneously, making it easy for teams to collaborate efficiently and stay synced. Perfect for students, professionals, and teams needing seamless collaboration.
 
 ## <a name="tech-stack">Tech Stack</a>
 
